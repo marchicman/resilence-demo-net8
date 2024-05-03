@@ -1,0 +1,6 @@
+@resilence_demo_net8_HostAddress = http://localhost:5011
+
+GET {{resilence_demo_net8_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
