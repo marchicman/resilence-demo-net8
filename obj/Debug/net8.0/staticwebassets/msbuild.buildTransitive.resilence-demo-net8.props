@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/resilence-demo-net8.props" />
+</Project>
